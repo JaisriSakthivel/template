@@ -1,0 +1,8 @@
+<div class="cont">
+                        <div class="e"><img src="market leader.jpg"><br>Market Leader across 18 Countries</div>
+                        <div class="f"><img src="most loved tool.jpg"> <br>Most Loved SaaS tool in 2021</div>
+                        <div class="g"><img src="category loved.jpg"> <br>Category Leader in 2022</div>
+                        <div class="h"> <img src="most recommended.jpg" ><br>Most recommended tool in 2021</div>
+                        <div class="i"> <img src="champion.jpg" ><br>Champion ship in survey tool 2022</div>
+                        <div class="j"> <img src="top performer.jpg" ><br>Top performer spring in 2021</div>
+        </div>>
